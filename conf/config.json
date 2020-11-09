@@ -1,0 +1,12 @@
+{
+  "development": {
+      "user_profiles_url": "https://raw.githubusercontent.com/alj-devops/santa-data/master/userProfiles.json",
+      "user_info_url": "https://raw.githubusercontent.com/alj-devops/santa-data/master/users.json"
+  },
+  "testing": {
+  },
+  "staging": {
+  },
+  "production": {
+  }
+}
